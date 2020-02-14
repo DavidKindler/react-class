@@ -35,7 +35,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.9.0",
     "firebase": "^2.4.2",
-    "form-serialize": "0.7.1",
+    "form-serialize": "0.7.2",
     "immstruct": "^2.0.0",
     "immutable": "^3.7.3",
     "imports-loader": "0.8.0",
