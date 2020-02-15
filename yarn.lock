@@ -1285,7 +1285,7 @@ block-stream@*:
   dependencies:
     inherits "~2.0.0"
 
-body-parser@1.19.0, body-parser@^1.19.0:
+body-parser@1.19.0, body-parser@^1.15.2:
   version "1.19.0"
   resolved "https://registry.yarnpkg.com/body-parser/-/body-parser-1.19.0.tgz#96b2709e57c9c4e09a6fd66a8fd979844f69f08a"
   integrity sha512-dhEPs72UPbDnAQJ9ZKMNTP6ptJaionhP5cBb541nXPlW60Jepo9RV/a4fX4XWW9CuFNK22krhrj1+rgzifNCsw==
@@ -1319,9 +1319,10 @@ boom@2.x.x:
   dependencies:
     hoek "2.x.x"
 
-bootstrap-webpack@0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/bootstrap-webpack/-/bootstrap-webpack-0.0.5.tgz#c843494022140b545b711b5cd272942b9da01766"
+bootstrap-webpack@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/bootstrap-webpack/-/bootstrap-webpack-0.0.6.tgz#77c2c20cc287d06a5dc7af68947aec3374627d28"
+  integrity sha1-d8LCDMKH0Gpdx69olHrsM3RifSg=
 
 bootstrap@^3.4.1:
   version "3.4.1"
