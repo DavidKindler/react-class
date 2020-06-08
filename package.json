@@ -14,7 +14,7 @@
     "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
-    "angular": "1.7.9",
+    "angular": "1.8.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.0",
     "babel-plugin-transform-object-assign": "^6.5.0",
